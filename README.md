@@ -25,35 +25,44 @@ __Problem Description__
 
 __Task__
 <br/>
+
 The goal in this problem is to count the number of inversions of a given sequence.
 Input Format. The first line contains an integer 𝑛, the next one contains a sequence of integers
 𝑎0, 𝑎1, . . . , 𝑎𝑛−1.
 <br/>
+
 __Constraints__
 <br/>
+
 1 ≤ 𝑛 ≤ 105, 1 ≤ 𝑎𝑖 ≤ 109 for all 0 ≤ 𝑖 < 𝑛.
 <br/>
+
 __Output Format__
 <br/>
+
 Output the number of inversions in the sequence.
+
 __Sample 1__
 <br/>
+
 Input:
 <br/>
 5
 <br/>
 2 3 9 2 9
 <br/>
+
 Output:
 <br/>
 2
 <br/>
-<br/>
+
 The two inversions here are (1, 3) (𝑎1 = 3 > 2 = 𝑎3) and (2, 3) (𝑎2 = 9 > 2 = 𝑎3).
 <br/>
 
 __What To Do__
 <br/>
+
 This problem can be solved by modifying the merge sort algorithm. For this, we change both the Merge and
 MergeSort procedures as follows:
 <br/>
