@@ -8,6 +8,8 @@ This repo stores the code written by myself, Kristen Phan, as part of a Coursera
 <br/>
 
 __Problem Introduction__
+<br/>
+
 An inversion of a sequence 𝑎0, 𝑎1, . . . , 𝑎𝑛−1 is a pair of indices 0 ≤ 𝑖 < 𝑗 < 𝑛 such
 that 𝑎𝑖 > 𝑎𝑗 . 
 <br/>
