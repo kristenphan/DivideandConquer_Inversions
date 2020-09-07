@@ -2,6 +2,8 @@
 <br/>
 
 __Repo description__
+<br/>
+
 This repo stores the code written by myself, Kristen Phan, as part of a Coursera course (https://www.coursera.org/learn/algorithmic-toolbox/). Please refrain from checking out the script if you're currently taking the course. 
 <br/>
 
